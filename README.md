@@ -7,8 +7,8 @@
  - The keyboard features two programmable encoders/knobs with push-buttons, an OLED screen and 12 Buttons/Swithces.
  - The main PCB requires a PRO MICRO format Controller Board (RP2040 Qwiic is used in this project). 
 
-### YOUTUBE VIDEO
-[![MacroPad](https://www.youtube.com/watch?v=CmnHtQ5szXs)](https://www.youtube.com/watch?v=CmnHtQ5szXs)
+### YOUTUBE VIDEO CLICK ON PICTURE
+[![MacroPad](https://github.com/ArmourGrade/MacroPad-Mechanical-Keyboard/blob/main/Images%20Keyboard/P1140373.JPG?raw=true)](https://www.youtube.com/watch?v=CmnHtQ5szXs)
 ### FIRMWARE SETUP
 
 - The non via firmware is setup for my uses currently.
