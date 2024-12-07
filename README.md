@@ -5,7 +5,7 @@ This is a mechanical keyboard macro pad project featuring the schematic and firm
 ![MacroPad](https://github.com/ArmourGrade/MacroPad-Mechanical-Keyboard/blob/main/Images%20Keyboard/P1140373.JPG?raw=true)
 
 >#### Overview
-> - The firmware is for **QMK Enviroment** and should be placed in the **keyboards** folder of your install QMK Enviroment
+> - The firmware is for **QMK Enviroment** and should be placed in the **keyboards** folder after installing the QMK Enviroment,
 >   for example C:\Users\PC_NAME\qmk_firmware\keyboards.
 >
 > - The controller board used in the project is a Sparkfun RP2040 pro micro Qwiic board
