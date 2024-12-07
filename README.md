@@ -8,7 +8,7 @@
  - The main PCB requires a PRO MICRO format Controller Board (RP2040 Qwiic is used in this project). 
 
 ### YOUTUBE VIDEO
-[![MacroPad](https://www.youtube.com/watch?v=CmnHtQ5szXs.jpeg)](https://www.youtube.com/watch?v=CmnHtQ5szXs)
+[![MacroPad](https://www.youtube.com/watch?v=CmnHtQ5szXs)](https://www.youtube.com/watch?v=CmnHtQ5szXs)
 ### FIRMWARE SETUP
 
 - The non via firmware is setup for my uses currently.
