@@ -9,6 +9,7 @@
 
 ### YOUTUBE VIDEO CLICK ON PICTURE
 [![MacroPad](https://github.com/ArmourGrade/MacroPad-Mechanical-Keyboard/blob/main/Images%20Keyboard/P1140373.JPG?raw=true)](https://www.youtube.com/watch?v=CmnHtQ5szXs)
+[![MacroPad](https://github.com/ArmourGrade/MacroPad-Mechanical-Keyboard/blob/main/Images%20Keyboard/Keyboard_ON_DESK.JPG?raw=true)]
 ### FIRMWARE SETUP
 
 - The non via firmware is setup for my uses currently.
@@ -19,11 +20,17 @@
 - The 3rd layer is for Altium Designer and some functions are still a work-in progress.
 - The 4th layer is for RGB settings, here rotating the second encoder will change the colours and pushing the encoder button will toggle the RGB on/off.
 - The 5th layer is for MATHCAD.
-
+- 
+- I have also now, as of 3rd January 2025. added the VIA compatible firmware (armourgrade_via), so it can be programmed through the GUI.
+- The oled here is just used to show which layer is currently active and has small images displayed.
+- The top knob is still used for going through layers, the bottom is used for volume on all layer except layer 4 where it adjust the RGB colours.
+- To reprogram the keyboard through VIA, go to the SETTINGS tab in the VIA opened in your browser or App and enable the DESIGN tab.
+- Then go to the DESIGN tab and press LOAD in the **Load Draft Definitions** and upload the keyboard.json file that is provided in the armourgrade_via.zip
+- After that the keyboard should appear and you can programm it however you like.
 >### NOTES 
 > - The firmware is for **QMK Enviroment** and should be placed in the **keyboards** folder after installing the QMK Enviroment,
 >   for example C:\Users\PC_NAME\qmk_firmware\keyboards.
->
+> 
 > - The controller board used in the project is a Sparkfun RP2040 pro micro Qwiic board
 >   but the project is compatible with the other PRO MICRO Boards like the Atmega32u4 based ones.
 
