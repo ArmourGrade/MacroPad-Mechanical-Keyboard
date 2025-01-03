@@ -9,7 +9,7 @@
 
 ### YOUTUBE VIDEO CLICK ON PICTURE
 [![MacroPad](https://github.com/ArmourGrade/MacroPad-Mechanical-Keyboard/blob/main/Images%20Keyboard/P1140373.JPG?raw=true)](https://www.youtube.com/watch?v=CmnHtQ5szXs)
-[![MacroPad_Clear](https://github.com/ArmourGrade/MacroPad-Mechanical-Keyboard/blob/main/Images%20Keyboard/Keyboard_ON_DESK.JPG?raw=true)]
+![MacroPad_Clear](https://github.com/ArmourGrade/MacroPad-Mechanical-Keyboard/blob/main/Images%20Keyboard/Keyboard_ON_DESK.jpg?raw=true) 
 ### FIRMWARE SETUP
 
 - The non via firmware is setup for my uses currently.
