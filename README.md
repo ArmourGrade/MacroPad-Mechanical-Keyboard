@@ -9,7 +9,7 @@
 
 ### YOUTUBE VIDEO CLICK ON PICTURE
 [![MacroPad](https://github.com/ArmourGrade/MacroPad-Mechanical-Keyboard/blob/main/Images%20Keyboard/P1140373.JPG?raw=true)](https://www.youtube.com/watch?v=CmnHtQ5szXs)
-[![MacroPad](https://github.com/ArmourGrade/MacroPad-Mechanical-Keyboard/blob/main/Images%20Keyboard/Keyboard_ON_DESK.JPG?raw=true)]
+[![MacroPad_Clear](https://github.com/ArmourGrade/MacroPad-Mechanical-Keyboard/blob/main/Images%20Keyboard/Keyboard_ON_DESK.JPG?raw=true)]
 ### FIRMWARE SETUP
 
 - The non via firmware is setup for my uses currently.
@@ -20,7 +20,7 @@
 - The 3rd layer is for Altium Designer and some functions are still a work-in progress.
 - The 4th layer is for RGB settings, here rotating the second encoder will change the colours and pushing the encoder button will toggle the RGB on/off.
 - The 5th layer is for MATHCAD.
-- 
+
 - I have also now, as of 3rd January 2025. added the VIA compatible firmware (armourgrade_via), so it can be programmed through the GUI.
 - The oled here is just used to show which layer is currently active and has small images displayed.
 - The top knob is still used for going through layers, the bottom is used for volume on all layer except layer 4 where it adjust the RGB colours.
